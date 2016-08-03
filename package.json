@@ -13,6 +13,7 @@
   "dependencies": {
     "lodash": "^4.14.1",
     "md5": "^2.1.0",
-    "moment": "^2.14.1"
+    "moment": "^2.14.1",
+    "profanity-filter": "^0.2.1"
   }
 }
